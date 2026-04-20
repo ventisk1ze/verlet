@@ -1,0 +1,1 @@
+clang++ main.cpp glad/src/glad.c -o $1 -Iglad/include -lglfw -framework OpenGL
